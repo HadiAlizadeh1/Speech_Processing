@@ -4,5 +4,6 @@
 ### In this task we use models of Kaldi and Vosk.
 ------------------------------------------------------------------------------
 ## Brife Code explanation:
-At first inistall VOSK, Next I chose the "vosk-model-fa-0.5" model frome VOSK models.(It is about Persian language ASR model)\
-for using this model we need audio that it is about speech in Persian, So for doing this part I should use Recourding audio from microphone
+At first inistalling VOSK, Next I chose the "[vosk-model-fa-0.5](https://alphacephei.com/vosk/)" model frome VOSK models.(It is about Persian language ASR model)\
+for using this model we need audio that it is about speech in Persian, So for doing this part I should use Recourding audio from microphone part.\
+In this part I use 
