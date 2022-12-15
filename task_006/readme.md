@@ -1,8 +1,11 @@
 # In the name of Allah
-this task is about creating rasa chat bot for Englisg and Persian(Farsi) languages.
 
-in this folder En_bot is about English language chat bot
+# Task-006 
 
-Farsi_bot is about Faarsi language chat bot
+This task is about creating rasa chat bot for Englisg and Persian(Farsi) languages.
 
-Telegram is about connecting En_bot to telegram
+The En_bot folder is about English language chat bot
+
+Farsi_bot folder is about Faarsi language chat bot
+
+Telegram folder is about connecting En_bot to telegram
