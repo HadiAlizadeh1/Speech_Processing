@@ -1,0 +1,1 @@
+## These two files are related to fine-tuning an ASR model using the NeMo toolkit. The main difference between them lies in the normalization of the text.
