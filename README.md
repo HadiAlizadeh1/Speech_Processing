@@ -1,1 +1,1 @@
-![alt text](https://www.einfochips.com/wp-content/uploads/2020/12/speech-processing-model-in-embedded-media-processing-blog-fetaured-3.jpg)
+![alt text](https://www.opensourceforu.com/wp-content/uploads/2015/11/a-man-visual-speaking-multiple-language.jpg)
